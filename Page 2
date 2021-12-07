@@ -1,0 +1,14 @@
+<html>
+<head>
+<h1>My Web Page </h1> 
+<style>
+  h2 { color:green }
+  h3 { color: red }
+    background { backgroundcolor: blue}
+  </style>
+</head>
+<body>
+  <ul>
+    <li> <a href="idex.html"> Home Page </a> </li>
+    <li> <a href="Page 2"> Page 2 </a> </il>
+  </ul>
